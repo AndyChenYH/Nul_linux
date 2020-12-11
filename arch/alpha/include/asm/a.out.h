@@ -14,3 +14,6 @@
 			   ? ADDR_LIMIT_32BIT : 0) | PER_OSF4))
 
 #endif /* __A_OUT_GNU_H__ */
+
+
+weeeeewo
